@@ -2,7 +2,8 @@
 
 ## Work description
 
-You are to our printf group project.
+We are to create a pintf group project. This is a low-level programme.
+this project was done in a group of 2 people [obadare Ayobami joel](https://github.com/Ayondrun) and [Aduragbemi Oduntan](https://github.com/Salemori)
 Our aim is to replicate the C standard
 library printf() function.
 
