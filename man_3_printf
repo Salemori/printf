@@ -1,4 +1,4 @@
-.TH man 1 "03 March 2021" "1.0 Release version" "_printf man page"
+.TH man 1 "03 March 2022" "1.0 Release version" "_printf man page"
 .SH NAME
 .B _printf man page
 .SH SYNOPSIS
@@ -39,7 +39,7 @@ _printf ("%c\\n", 'H');
 
 _printf ("%s\\n", "ALX School!");
 
-# AlX School!
+# ALX School!
 
 
 .B --- Print an integer number 3 followed by a newline:
@@ -64,7 +64,7 @@ _printf("%%\\n")
 NO BUGS :)
 
 .SH AUTHOR
-Aduragbemi Oduntan and Obadare Ayobami Joel - ALX School cohort 8
+Ayobami Joel Obadare and Aduragbemi Oduntan - ALX School Cohort 08
 
 .SH COPYRIGHT
-Aduragbemi Oduntan and Obadare Ayobami Joel - ALX School Cohort 08 | Montevideo Campus | All rights reserved
+Aduragbemi Oduntan and Ayobami Joel Obadare - ALX School Cohort 08 | All rights reserved
