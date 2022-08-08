@@ -3,7 +3,7 @@
 ## Work description
 
 We are to create a pintf group project. This is a low-level programme.
-this project was done in a group of 2 people [Obadare Ayobami Joel](https://github.com/Ayondrun) and [Aduragbemi Oduntan](https://github.com/Salemori)
+This project was done in a group of 2 people [Obadare Ayobami Joel](https://github.com/Ayondrun) and [Aduragbemi Oduntan](https://github.com/Salemori).
 Our aim is to replicate the C standard
 library printf() function.
 
@@ -22,11 +22,11 @@ based on the format specified.
 * Compiler: gcc 9.3.0
 
 ### Specifications
- not allowed to use global variables
+* Not allowed to use global variables
 * No more than 5 functions per file
-* code should use the Betty style,
+* Code should use the Betty style,
   see [betty-style.pl](https://github.com/holbertonschool/Betty/blob/master/betty-style.pl) and [betty-doc.pl](https://github.com/holbertonschool/Betty/blob/master/betty-doc.pl)
-* compile using -Wall -Werror -Wextra
+* Compile using -Wall -Werror -Wextra
   -pedantic -std=gnu89 option.
 
 ## Authorized functions and macros
@@ -38,5 +38,3 @@ based on the format specified.
 * va end
 * va copy
 * va arg 
-
-
