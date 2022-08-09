@@ -51,7 +51,7 @@ The _printf() functions will produce output to the standard output based on the 
 - [x] Handle the ```-``` flag character for non-custom conversion specifiers.
 - [x] Handle the custom conversion specifier ```r``` that prints the reversed string.
 - [x] Handle the custom conversion specifier ```R``` that prints the rot13'ed string.
-- [x] All above options work well together.
+- [x] All above options work really well together.
 
 ## Team Members
 [Obadare Ayobami Joel](https://github.com/Ayondrun)\
