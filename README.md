@@ -54,5 +54,5 @@ The _printf() functions will produce output to the standard output based on the 
 - [x] All above options work well together.
 
 ## Team Members
-[Obadare Ayobami Joel](https://github.com/Ayondrun)
+[Obadare Ayobami Joel](https://github.com/Ayondrun)\
 [Aduragbemi Oduntan](https://github.com/Salemori)
